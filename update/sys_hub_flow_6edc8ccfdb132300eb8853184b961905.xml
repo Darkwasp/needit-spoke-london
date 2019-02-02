@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Flow to test custom action</description>
+        <internal_name>action_test_flow</internal_name>
+        <label_cache>[{"name":"Run Once_1.run_start_time","label":"Trigger➛Run Start Time","type":"glide_date_time","base_type":"glide_date_time"},{"name":"4159ef6b-6ae5-4d60-a155-a75e54e4da4a.property_value","label":"1➛Property value","reference_display":"Property value","type":"string","base_type":"string"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Action Test Flow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>true</show_draft_actions>
+        <show_triggered_flows>true</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-02 16:38:09</sys_created_on>
+        <sys_id>6edc8ccfdb132300eb8853184b961905</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Action Test Flow</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_61254_needit_spo">79d98c4fdb132300eb8853184b961925</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">79d98c4fdb132300eb8853184b961925</sys_scope>
+        <sys_update_name>sys_hub_flow_6edc8ccfdb132300eb8853184b961905</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-02 17:58:08</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=6edc8ccfdb132300eb8853184b961905"/>
+    <sys_variable_value action="delete_multiple" query="document_key=6edc8ccfdb132300eb8853184b961905"/>
+</record_update>
